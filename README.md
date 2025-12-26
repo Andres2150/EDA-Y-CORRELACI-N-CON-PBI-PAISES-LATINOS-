@@ -1,6 +1,20 @@
 EDA ESTADISTICO DEL PBI EN AMÉRICA LATINA (2000–2024)
-Contexto general de la data
+Objetivo del proyecto
+Ej: “Analizar la evolución del PBI latinoamericano 2000–2024 y explorar patrones mediante EDA, correlación, PCA y clustering.”
 
+✅ Metodología
+Enumerar:
+limpieza de datos
+análisis estadístico
+correlación
+reducción de dimensionalidad (PCA)
+clustering
+
+✅ Resultados clave
+Incluye:
+que países tienen patrones similares
+la interpretación de clusters
+qué aprendizaje deja el análisis
 
 
 <img width="1178" height="722" alt="image" src="https://github.com/user-attachments/assets/af494261-20ab-4e2b-b5ae-258cdf85d4ac" />
