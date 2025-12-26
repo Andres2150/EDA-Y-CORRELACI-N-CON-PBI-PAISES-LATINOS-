@@ -1,5 +1,6 @@
 EDA ESTADISTICO DEL PBI EN AMÉRICA LATINA (2000–2024)
-Objetivo del proyecto
+
+✅Objetivo del proyecto
 Ej: “Analizar la evolución del PBI latinoamericano 2000–2024 y explorar patrones mediante EDA, correlación, PCA y clustering.”
 
 ✅ Metodología
